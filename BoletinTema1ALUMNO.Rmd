@@ -143,16 +143,7 @@ ANIMAL2
 e.  Determina las diferencia entre los animales que no aparecen en ambos conjuntos.
 
 ```{r}
-
-
-
-
-
-
-
-
-
-
+# Ambos dataframes guardan animales, pero la diferencia que podemos contemplar es que en cada uno de los data frames, el mismo animal, presenta nombres distintos.
 
 
 ```
