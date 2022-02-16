@@ -187,31 +187,30 @@ length(libReturn$results[,1])
 
 ```{r}
 
+# Apartado A
+
+nrow(cabbages)
+ncol(cabbages)
+str(cabbages)
 
 
+# Apartado B
+
+is.na(cabbages)
 
 
+# Apartado C
+
+str(Chile)
+ncol(Chile)
+nrow(Chile)
+is.na(Chile)
 
 
+# Aprtado D
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+summary(cabbages)
+summary(Chile)
 
 ```
 
